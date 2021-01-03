@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color:lightblue;
+}
+#hobby-img {
+ width:400px;
+}
+h1{
+  500px;
+    text-align: center;
+}
+h2{
+  500px;
+    text-align: center;
+}
+h3{
+  250px;
+    text-align: center;
+}
+h4{
+    60px;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+html{
+    scroll-behavior: smooth;
+}
+div{
+    text-align: center;
+}
+iframe{
+    text-align: center;
+}
